@@ -8,6 +8,10 @@
 
 - [1导论](DialecticsOfNature/1导论.md)
 - [2马克思主义自然观](DialecticsOfNature/2马克思主义自然观.md)
+- [3马克思主义科学技术观](DialecticsOfNature/3马克思主义科学技术观.md)
+- [4马克思主义科学技术社会观](DialecticsOfNature/4马克思主义科学技术社会观.md)
+
+
 
 ## 研究生论文写作指导
 
